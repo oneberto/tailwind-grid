@@ -2,7 +2,7 @@
 
 Hey!
 
-That's the project I used to recorded the video about Tailwind Grids.
+That's the project I used to recorde the video about Tailwind Grids.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VIDEOCODE/0.jpg)](https://www.youtube.com/watch?v=VIDEOCODE)
 
